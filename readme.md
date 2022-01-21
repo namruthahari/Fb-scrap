@@ -1,1 +1,0 @@
-# Python Facebook Web-Scraper
