@@ -1,0 +1,517 @@
+1642338609844	geckodriver	INFO	Listening on 127.0.0.1:59656
+1642338612926	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileftJtwe"
+*** You are running in headless mode.
+1642338614564	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileftJtwe\\search.json.mozlz4", (void 0)))
+1642338617297	Marionette	INFO	Listening on port 59666
+1642338617802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642338617807	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59655","noProxy":[],"sslProxy":"127.0.0.1:59655"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642338661237	Marionette	INFO	Stopped listening on port 59666
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642338662714	geckodriver	INFO	Listening on 127.0.0.1:59757
+1642338665771	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileTOMSp0"
+*** You are running in headless mode.
+1642338666142	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileTOMSp0\\search.json.mozlz4", (void 0)))
+1642338667604	Marionette	INFO	Listening on port 59765
+1642338667905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642338667911	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59756","noProxy":[],"sslProxy":"127.0.0.1:59756"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642338710795	Marionette	INFO	Stopped listening on port 59765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642344286051	geckodriver	INFO	Listening on 127.0.0.1:49183
+1642344289100	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileXmlZEQ"
+*** You are running in headless mode.
+1642344289738	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileXmlZEQ\\search.json.mozlz4", (void 0)))
+1642344292034	Marionette	INFO	Listening on port 49193
+1642344292263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642344292268	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49182","noProxy":[],"sslProxy":"127.0.0.1:49182"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642344335424	Marionette	INFO	Stopped listening on port 49193
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642344337073	geckodriver	INFO	Listening on 127.0.0.1:49308
+1642344340142	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilej2vKPX"
+*** You are running in headless mode.
+1642344340603	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilej2vKPX\\search.json.mozlz4", (void 0)))
+1642344342366	Marionette	INFO	Listening on port 49318
+1642344342843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642344342849	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49307","noProxy":[],"sslProxy":"127.0.0.1:49307"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\click\AppData\Local\Temp\rust_mozprofilej2vKPX\bookmarkbackups\bookmarks-2022-01-19_11_rVxGoNfhfC2WuMStgtb5rg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+emp\\rust_mozprofileP2EwJz"
+*** You are running in headless mode.
+1642351594835	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileP2EwJz\\search.json.mozlz4", (void 0)))
+1642351596384	Marionette	INFO	Listening on port 61051
+1642351596544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642351596548	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61038","noProxy":[],"sslProxy":"127.0.0.1:61038"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642351639458	Marionette	INFO	Stopped listening on port 61051
+1642351640885	geckodriver	INFO	Listening on 127.0.0.1:61166
+1642351643926	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileqccAun"
+*** You are running in headless mode.
+1642351644290	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileqccAun\\search.json.mozlz4", (void 0)))
+1642351645706	Marionette	INFO	Listening on port 61175
+1642351645957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642351645961	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61165","noProxy":[],"sslProxy":"127.0.0.1:61165"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\click\AppData\Local\Temp\rust_mozprofileqccAun\bookmarkbackups\bookmarks-2022-01-18_11_aTCBlUdUucsIfZRf41ss+w==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\click\AppData\Local\Temp\rust_mozprofileqccAun\bookmarkbackups\bookmarks-2022-01-19_11_aTCBlUdUucsIfZRf41ss+w==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+o settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileylHsRd\\search.json.mozlz4", (void 0)))
+1642351794413	Marionette	INFO	Listening on port 61363
+1642351794469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642351794474	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61353","noProxy":[],"sslProxy":"127.0.0.1:61353"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\click\AppData\Local\Temp\rust_mozprofileylHsRd\bookmarkbackups\bookmarks-2022-01-19_11_AiTeEaxXCywubQbo5LObcQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Users\\click\\AppData\\Local\\Temp\\rust_mozprofile6DzlXI"
+*** You are running in headless mode.
+1642352307164	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofile6DzlXI\\search.json.mozlz4", (void 0)))
+1642352308677	Marionette	INFO	Listening on port 62117
+1642352308816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642352308819	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62091","noProxy":[],"sslProxy":"127.0.0.1:62091"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642352351900	Marionette	INFO	Stopped listening on port 62117
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642352398659	geckodriver	INFO	Listening on 127.0.0.1:62869
+1642352401705	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileRSVeYq"
+*** You are running in headless mode.
+1642352402070	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileRSVeYq\\search.json.mozlz4", (void 0)))
+1642352403563	Marionette	INFO	Listening on port 62909
+1642352403749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642352403753	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62868","noProxy":[],"sslProxy":"127.0.0.1:62868"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+1642352469175	Marionette	INFO	Stopped listening on port 62909
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642352644864	geckodriver	INFO	Listening on 127.0.0.1:64718
+1642352647897	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofile2pw45w"
+*** You are running in headless mode.
+1642352648248	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofile2pw45w\\search.json.mozlz4", (void 0)))
+1642352649762	Marionette	INFO	Listening on port 64744
+1642352649947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642352649951	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:64717","noProxy":[],"sslProxy":"127.0.0.1:64717"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+1642352714116	Marionette	INFO	Stopped listening on port 64744
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642352716077	geckodriver	INFO	Listening on 127.0.0.1:65318
+1642352719129	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilea8i6Lb"
+*** You are running in headless mode.
+1642352719798	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilea8i6Lb\\search.json.mozlz4", (void 0)))
+1642352721647	Marionette	INFO	Listening on port 65342
+1642352721828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642352721832	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:65317","noProxy":[],"sslProxy":"127.0.0.1:65317"}
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\click\AppData\Local\Temp\rust_mozprofilea8i6Lb\bookmarkbackups\bookmarks-2022-01-18_11_JZSty0iqv1flXmqnxThfLA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+eadless mode.
+1642352738707	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofile9zqJDC\\search.json.mozlz4", (void 0)))
+1642352740578	Marionette	INFO	Listening on port 49168
+1642352741063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642352741068	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:65530","noProxy":[],"sslProxy":"127.0.0.1:65530"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+1642352807731	Marionette	INFO	Stopped listening on port 49168
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642352809556	geckodriver	INFO	Listening on 127.0.0.1:49827
+1642352812598	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilexP4pPU"
+*** You are running in headless mode.
+1642352813091	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilexP4pPU\\search.json.mozlz4", (void 0)))
+1642352814681	Marionette	INFO	Listening on port 49859
+1642352814785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642352814789	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49826","noProxy":[],"sslProxy":"127.0.0.1:49826"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+1642352884737	Marionette	INFO	Stopped listening on port 49859
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642352956310	geckodriver	INFO	Listening on 127.0.0.1:50960
+1642352959369	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilexY7gVp"
+*** You are running in headless mode.
+1642352959733	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilexY7gVp\\search.json.mozlz4", (void 0)))
+1642352961150	Marionette	INFO	Listening on port 51004
+1642352961415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642352961419	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50959","noProxy":[],"sslProxy":"127.0.0.1:50959"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+1642353023565	Marionette	INFO	Stopped listening on port 51004
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642353025388	geckodriver	INFO	Listening on 127.0.0.1:51589
+1642353028439	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilej4hupc"
+*** You are running in headless mode.
+1642353028790	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilej4hupc\\search.json.mozlz4", (void 0)))
+1642353030221	Marionette	INFO	Listening on port 51629
+1642353030529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642353030534	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51588","noProxy":[],"sslProxy":"127.0.0.1:51588"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+1642353091499	Marionette	INFO	Stopped listening on port 51629
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642353233073	geckodriver	INFO	Listening on 127.0.0.1:53247
+1642353236100	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileR3GDhy"
+*** You are running in headless mode.
+1642353236453	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileR3GDhy\\search.json.mozlz4", (void 0)))
+1642353237948	Marionette	INFO	Listening on port 53297
+1642353238173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642353238178	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53246","noProxy":[],"sslProxy":"127.0.0.1:53246"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+1642353298687	Marionette	INFO	Stopped listening on port 53297
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642353300535	geckodriver	INFO	Listening on 127.0.0.1:54113
+1642353303591	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileHnrG71"
+*** You are running in headless mode.
+1642353303960	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileHnrG71\\search.json.mozlz4", (void 0)))
+1642353305585	Marionette	INFO	Listening on port 54153
+1642353305723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642353305728	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54106","noProxy":[],"sslProxy":"127.0.0.1:54106"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://en-gb.facebook.com/pg/BurnsNursingandRehab/posts/, line 1: SyntaxError: unexpected token: ':'
+1642353363127	Marionette	INFO	Stopped listening on port 54153
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642400364979	geckodriver	INFO	Listening on 127.0.0.1:60241
+1642400367997	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilefI76Ll"
+*** You are running in headless mode.
+1642400368539	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilefI76Ll\\search.json.mozlz4", (void 0)))
+1642400370191	Marionette	INFO	Listening on port 60249
+1642400370687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642400370692	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60240","noProxy":[],"sslProxy":"127.0.0.1:60240"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iszz4/yl/l/en_GB/vbe9AoHOQrc.js?_nc_x=Ij3Wp8lg5Kz, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642400416363	Marionette	INFO	Stopped listening on port 60249
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\click\AppData\Local\Temp\rust_mozprofilefI76Ll\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642400498317	geckodriver	INFO	Listening on 127.0.0.1:60393
+1642400501401	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileJuEPbA"
+*** You are running in headless mode.
+1642400501806	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofileJuEPbA\\search.json.mozlz4", (void 0)))
+1642400503335	Marionette	INFO	Listening on port 60401
+1642400503471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642400503475	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60392","noProxy":[],"sslProxy":"127.0.0.1:60392"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iszz4/yl/l/en_GB/vbe9AoHOQrc.js?_nc_x=Ij3Wp8lg5Kz, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642400549945	Marionette	INFO	Stopped listening on port 60401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\click\AppData\Local\Temp\rust_mozprofileJuEPbA\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642403134080	geckodriver	INFO	Listening on 127.0.0.1:50143
+1642403137131	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "-no-remote" "-profile" "C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilePAzhtY"
+*** You are running in headless mode.
+1642403137526	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\click\\AppData\\Local\\Temp\\rust_mozprofilePAzhtY\\search.json.mozlz4", (void 0)))
+1642403139089	Marionette	INFO	Listening on port 50153
+1642403139179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642403139183	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50142","noProxy":[],"sslProxy":"127.0.0.1:50142"}
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iszz4/yl/l/en_GB/vbe9AoHOQrc.js?_nc_x=Ij3Wp8lg5Kz, line 65: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642403187335	Marionette	INFO	Stopped listening on port 50153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\click\AppData\Local\Temp\rust_mozprofilePAzhtY\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
